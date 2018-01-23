@@ -1,0 +1,3 @@
+ 
+methods is part of class, but functions can exixts outside of class also, that's why function overloading is there no method overloading.
+
