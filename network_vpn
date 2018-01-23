@@ -1,7 +1,0 @@
-  999  dnf install -y NetworkManager-openvpn NetworkManager-openvpn-gnome
- 1000  sudo dnf install -y NetworkManager-openvpn NetworkManager-openvpn-gnome
- 1001  cd Downloads/
- 1002  ls
- 1003  sudo dnf install redhat-internal-cert-install-0.1-7.el7.csb.noarch.rpm
- 1004  sudo dnf install redhat-internal-NetworkManager-openvpn-profiles-0.1-30.el7.csb.noarch.rpm 
-
